@@ -1,0 +1,15 @@
+{
+  "name": "integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -c integration/jest.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "23.6.0",
+    "jest-puppeteer": "^4.0.0"
+  }
+}
